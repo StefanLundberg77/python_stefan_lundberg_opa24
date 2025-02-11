@@ -1,0 +1,32 @@
+[
+    {
+        "Timestamp": "\u001b[0m09:33:53.934267",
+        "Log level": "[debug]",
+        "Thread": "[ThreadPool]:",
+        "Detail message": "Snowflake adapter: Snowflake error: 003001 (42501): SQL access control error:"
+    },
+    {
+        "Timestamp": "\u001b[0m09:33:53.934836",
+        "Log level": "[debug]",
+        "Thread": "[ThreadPool]:",
+        "Detail message": "Snowflake adapter: Error running SQL: macro create_schema"
+    },
+    {
+        "Timestamp": "\u001b[0m09:33:54.755169",
+        "Log level": "[debug]",
+        "Thread": "[ThreadPool]:",
+        "Detail message": "Snowflake adapter: Snowflake error: 003001 (42501): SQL access control error:"
+    },
+    {
+        "Timestamp": "\u001b[0m09:33:54.756174",
+        "Log level": "[debug]",
+        "Thread": "[ThreadPool]:",
+        "Detail message": "Snowflake adapter: Error running SQL: macro create_schema"
+    },
+    {
+        "Timestamp": "\u001b[0m09:33:54.908251",
+        "Log level": "[error]",
+        "Thread": "[MainThread]:",
+        "Detail message": "Encountered an error: Database Error 003001 (42501): SQL access control error: Insufficient privileges to operate on database 'JOB_ADS'"
+    }
+]
